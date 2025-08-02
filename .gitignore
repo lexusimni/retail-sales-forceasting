@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# artifacts/   <- include this if you DON'T want to version model files
